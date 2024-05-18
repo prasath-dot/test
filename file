@@ -1,2 +1,6 @@
 this is my git repo
+<<<<<<< HEAD
  this is my repo
+=======
+hello git
+>>>>>>> f197fe748706c56d76c93f4fd51666bc2373d589
